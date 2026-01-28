@@ -1,1 +1,1 @@
-thisis my first git push
+this is mt git project.
